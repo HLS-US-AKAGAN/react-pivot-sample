@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'flexmonster/flexmonster.css';
 
 ReactDOM.render(
   <React.StrictMode>
